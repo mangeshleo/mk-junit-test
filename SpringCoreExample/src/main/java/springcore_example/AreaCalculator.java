@@ -3,6 +3,8 @@ package springcore_example;
 import java.util.HashMap;
 import java.util.Map;
 
+/*This is to check a second commit*/
+
 public class AreaCalculator {
 	
 	private String shapeName;
